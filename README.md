@@ -13,6 +13,8 @@ Food-11:https://www.kaggle.com/datasets/trolukovich/food11-image-dataset
 ![image](https://github.com/user-attachments/assets/c4b8e7fc-b2ae-43ee-b1ab-0a1111e92075)  
 ![image](https://github.com/user-attachments/assets/fddf1334-f9ef-4a74-bddb-787a12610767)  
 
+对于fine-tunning，训练时间较长，提供food11_model，可从Google获取：https://drive.google.com/drive/folders/1UYLPeS7MLgv4Ed4aBpGkGOAaLhm9sQGb
+
 
 
 
